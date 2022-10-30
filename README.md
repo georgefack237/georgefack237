@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about UI/UX Design, Flutter
 - 📫 How to reach me: georgefack237@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 -->
